@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DDP2P</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>    
+    
+    <!-- main action bar -->
+    <string name="action_back" translatable="false">back</string>
+    <string name="new_safe_my" translatable="false">add a new safe my</string>
+    <string name="new_safe_other" translatable="false">add a new safe other</string>    
+    <string name="new_org" translatable="false">add a new org</string>    
+    <string name="new_icon" translatable="false">add</string>
+    
+    <!--  used in safe profile menu  -->
+    <string name="set_name_my" translatable="false">set name my</string>
+    <string name="set_email" translatable="false">set email</string>
+    <string name="set_slogan" translatable="false">set slogan</string>
+    <string name="add_to_current_org" translatable="false">add to current org</string>
+    
+    <!-- used in data_list -->
+    <string name="name" translatable="false">Name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="slogan" translatable="false">Slogan</string>
+    <string name="profile_pic_datalist" translatable="false">profile picture</string>
+    
+    <!-- buttons -->
+    <string name="submit" translatable="false">submit</string>   
+    <string name="ok" translatable="false">OK</string> 
+    
+    <!-- chat -->
+    <string name="send" translatable="false">Send</string>
+    <string name="input" translatable="false">input...</string>
+
+</resources>
